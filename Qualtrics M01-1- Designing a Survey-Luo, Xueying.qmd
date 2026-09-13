@@ -1,0 +1,55 @@
+---
+title: "Qualtrics M01-1: Designing a Survey-Luo, Xueying"
+author: "Xueying Luo"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    toc-expand: 2
+    number-sections: true
+    theme: cosmo
+    code-line-numbers: true
+    code-fold: true
+    code-tools: true
+    code-overflow: wrap
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# Proof of Survey Sharing
+
+The screenshot below shows that I shared my Qualtrics survey with Dr. Jae Jung and granted the required collaboration permissions.
+
+![Proof of the Qualtrics survey shared with Dr. Jung](survey-sharing-proof.png)
+
+# Beginning of Survey
+
+The screenshot below shows the beginning of my Qualtrics survey.
+
+![Beginning area of my Qualtrics survey](survey-beginning.png)
+
+# Middle of Survey
+
+The screenshot below shows a middle section of my Qualtrics survey.
+
+![Middle area of my Qualtrics survey](survey-middle.png)
+
+# Ending of Survey
+
+The screenshot below shows the ending area of my Qualtrics survey.
+
+![Ending area of my Qualtrics survey](survey-ending.png)
+
+# Appendix
+
+## GitHub Repository
+
+[View my GitHub Repository](PASTE-YOUR-GITHUB-REPOSITORY-LINK-HERE)
+
+## GitHub Pages
+
+[View my report on GitHub Pages](PASTE-YOUR-GITHUB-PAGES-LINK-HERE)
