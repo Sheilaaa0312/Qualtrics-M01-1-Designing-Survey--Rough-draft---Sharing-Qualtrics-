@@ -48,8 +48,8 @@ The screenshot below shows the ending area of my Qualtrics survey.
 
 ## GitHub Repository
 
-[View my GitHub Repository](PASTE-YOUR-GITHUB-REPOSITORY-LINK-HERE)
+[View my GitHub Repository](https://github.com/Sheilaaa0312/Qualtrics-M01-1-Designing-Survey--Rough-draft---Sharing-Qualtrics-)
 
 ## GitHub Pages
 
-[View my report on GitHub Pages](PASTE-YOUR-GITHUB-PAGES-LINK-HERE)
+[View my report on GitHub Pages](https://sheilaaa0312.github.io/Qualtrics-M01-1-Designing-Survey--Rough-draft---Sharing-Qualtrics-/)
